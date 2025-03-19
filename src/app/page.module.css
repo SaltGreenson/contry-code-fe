@@ -166,3 +166,7 @@ a.secondary {
     filter: invert();
   }
 }
+
+.container {
+  padding: 20px;
+}
